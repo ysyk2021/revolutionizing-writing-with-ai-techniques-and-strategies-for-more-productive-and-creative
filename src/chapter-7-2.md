@@ -1,5 +1,3 @@
-Addressing potential biases in AI algorithms
-==========================================================================================================
 
 As Artificial Intelligence (AI) technology becomes more prevalent in writing, it is essential to address potential biases in AI algorithms. In this chapter, we will explore the ethical considerations in AI adoption for writing and discuss how to address potential biases in AI algorithms.
 

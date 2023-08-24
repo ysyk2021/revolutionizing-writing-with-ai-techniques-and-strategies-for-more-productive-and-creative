@@ -1,4 +1,3 @@
-# Types of AI: natural language processing, machine learning, and deep learning
 
 In this chapter, we will explore different types of Artificial Intelligence (AI) and their transformative impact on the field of writing. Specifically, we will delve into three prominent types of AI that have revolutionized writing processes and outcomes: natural language processing, machine learning, and deep learning.
 

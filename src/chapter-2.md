@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI Technology for Writing
-==================================================
 
 Artificial intelligence (AI) technology has emerged as a powerful tool for enhancing writing productivity and creativity. In this chapter, we will explore the capabilities of AI technology for writing and the different types of AI that are used in the writing process.
 

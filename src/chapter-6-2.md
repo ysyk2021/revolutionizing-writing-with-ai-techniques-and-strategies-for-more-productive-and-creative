@@ -1,5 +1,3 @@
-Benefits and limitations of using AI for collaboration
-===============================================================================================================
 
 Artificial Intelligence (AI) technology has provided writers with powerful tools to streamline collaboration, but there are both benefits and limitations to using AI for collaboration. In this chapter, we will explore these benefits and limitations.
 

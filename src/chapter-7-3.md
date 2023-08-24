@@ -1,5 +1,3 @@
-Ensuring transparency and accountability in AI adoption
-=====================================================================================================================
 
 As Artificial Intelligence (AI) technology becomes more prevalent in writing, it is essential to ensure transparency and accountability in its adoption. In this chapter, we will explore the ethical considerations in AI adoption for writing and discuss how to ensure transparency and accountability.
 

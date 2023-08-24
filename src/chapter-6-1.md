@@ -1,5 +1,3 @@
-Collaboration techniques with AI-powered tools for co-authoring and editing
-====================================================================================================================================
 
 Collaboration is a vital part of the writing process, and Artificial Intelligence (AI) technology has provided writers with powerful tools to streamline collaboration. In this chapter, we will explore various collaboration techniques with AI-powered tools for co-authoring and editing.
 

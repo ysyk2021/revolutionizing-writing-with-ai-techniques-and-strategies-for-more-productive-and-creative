@@ -1,5 +1,3 @@
-Chapter 3: Improving Writing Style and Grammar with AI
-======================================================
 
 Use of AI-Powered Tools for Improving Writing Style and Grammar
 ---------------------------------------------------------------

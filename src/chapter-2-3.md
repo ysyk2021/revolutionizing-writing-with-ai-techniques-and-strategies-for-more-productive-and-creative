@@ -1,5 +1,3 @@
-Advantages of AI for improving writing productivity and creativity
-======================================================================================================================
 
 Artificial Intelligence (AI) technology has transformed the way we write, providing us with tools that can improve our writing productivity and creativity. In this chapter, we will discuss some of the key advantages of using AI for writing.
 

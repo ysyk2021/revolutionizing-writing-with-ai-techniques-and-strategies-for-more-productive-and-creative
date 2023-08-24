@@ -1,5 +1,3 @@
-Discussion of Ethical Considerations When Using AI for Writing
-============================================================================================================================
 
 AI has revolutionized the way we write, but its adoption raises important ethical considerations. In this chapter, we will discuss the ethical implications of using AI for writing and strategies for ensuring responsible AI adoption.
 

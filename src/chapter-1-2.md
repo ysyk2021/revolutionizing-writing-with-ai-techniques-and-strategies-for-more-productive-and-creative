@@ -1,5 +1,3 @@
-Importance of improving writing outcomes through AI technology
-============================================================================
 
 Writing is an essential skill that plays a critical role in our personal and professional lives. Whether we are composing emails, reports, or creative content, our ability to write effectively can have a significant impact on our success.
 

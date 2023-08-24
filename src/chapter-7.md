@@ -1,5 +1,3 @@
-Chapter 6: Ethical Considerations in AI Adoption for Writing
-============================================================
 
 As Artificial Intelligence (AI) technology continues to evolve and become more prevalent, it is essential to consider the ethical implications of its adoption in various industries, including writing. In this chapter, we will discuss the ethical considerations when using AI for writing.
 

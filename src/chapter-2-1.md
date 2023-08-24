@@ -1,5 +1,3 @@
-Explanation of AI Technology and its Capabilities for Writing
-=================================================================================================================
 
 Artificial intelligence (AI) technology has emerged as a powerful tool for enhancing writing productivity and creativity. In this chapter, we will explore the capabilities of AI technology for writing and provide an explanation of how it works.
 
