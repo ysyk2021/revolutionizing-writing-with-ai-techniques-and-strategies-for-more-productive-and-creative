@@ -8,3 +8,7 @@ This book provides a comprehensive overview of the use of AI in writing, address
 Through this book, readers will gain a deeper understanding of the benefits and challenges of using AI-powered tools for writing, as well as insights into the latest advancements in writing technology. Whether you're a professional writer, student, or anyone looking to improve their writing skills, "Revolutionizing Writing with AI" offers valuable insights and guidance for achieving more productive and creative writing outcomes through AI-powered techniques and strategies.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
