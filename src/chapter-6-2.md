@@ -1,5 +1,4 @@
-Chapter 5: Benefits and Limitations of Using AI for Collaboration
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the advantages and constraints of employing AI for collaborative writing endeavors. As AI technologies become integral tools in the writing process, it is essential to understand how they can enhance collaboration while acknowledging their limitations.
 

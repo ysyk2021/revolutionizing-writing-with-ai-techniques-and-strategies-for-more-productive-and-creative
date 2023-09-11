@@ -1,5 +1,4 @@
-Chapter 6: Addressing Concerns About the Role of AI in Creative Processes
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the various concerns and considerations surrounding the integration of AI into creative writing processes. While AI offers immense potential for boosting creativity and productivity, it also raises important questions and challenges that need to be addressed.
 

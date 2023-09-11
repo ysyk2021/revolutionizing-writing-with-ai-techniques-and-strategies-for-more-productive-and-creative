@@ -1,5 +1,4 @@
-Chapter 5: **Use of AI-Powered Tools for Generating Ideas and Outlines**
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting world of AI-powered tools that can revolutionize the way writers generate ideas and create outlines for their writing projects. Artificial intelligence has significantly advanced in recent years, and it now offers writers a range of powerful tools to boost creativity, productivity, and the overall quality of their work.
 

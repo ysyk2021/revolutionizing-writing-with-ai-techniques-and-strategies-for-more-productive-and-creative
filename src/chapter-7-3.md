@@ -1,5 +1,4 @@
-Chapter 7: Ensuring Transparency and Accountability in AI Adoption
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial importance of ensuring transparency and accountability when adopting AI techniques and strategies for writing. As AI continues to transform the writing process, it is essential to maintain ethical standards and address the challenges associated with transparency and accountability.
 

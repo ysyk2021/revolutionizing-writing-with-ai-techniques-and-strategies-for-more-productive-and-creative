@@ -1,5 +1,4 @@
-Chapter 8: Potential Challenges and Limitations of Using AI for Writing Style and Grammar Improvement
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the potential challenges and limitations that writers and content creators may encounter when utilizing AI for enhancing writing style and grammar. While AI offers significant advantages, it is essential to understand and address these issues for effective implementation.
 

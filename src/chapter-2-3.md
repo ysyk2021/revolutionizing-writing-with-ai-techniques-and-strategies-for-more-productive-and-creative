@@ -1,5 +1,4 @@
-Chapter 3: Advantages of AI for Improving Writing Productivity and Creativity
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous advantages that AI offers to writers seeking to enhance their productivity and creativity. AI technologies have the potential to revolutionize the writing process, empowering writers to achieve their goals more efficiently and unlock new levels of creativity.
 

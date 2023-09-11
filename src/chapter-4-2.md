@@ -1,5 +1,4 @@
-Chapter 9: Personalized Suggestions for Word Choice and Sentence Structure
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the capabilities of AI in providing personalized suggestions for word choice and sentence structure. These AI-powered tools can significantly enhance a writer's ability to craft engaging and well-structured content while tailoring recommendations to their unique style and preferences.
 

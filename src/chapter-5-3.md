@@ -1,5 +1,4 @@
-Chapter 5: Addressing Ethical Considerations in Using AI for Content Optimization
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations that arise when using AI techniques and strategies for content optimization in the realm of writing. As AI continues to revolutionize the writing process, it's crucial to examine and address the ethical implications associated with its use.
 

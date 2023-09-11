@@ -1,5 +1,4 @@
-Chapter 9: Addressing Potential Challenges and Ethical Considerations in Using AI for Idea Generation
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the opportunities and potential pitfalls of using AI for idea generation in the realm of writing. While AI offers innovative ways to enhance creativity and productivity, it also raises ethical questions and challenges that writers must navigate responsibly.
 

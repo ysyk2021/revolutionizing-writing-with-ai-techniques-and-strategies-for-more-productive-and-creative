@@ -1,5 +1,4 @@
-Chapter 8: Use of AI for Optimizing Content for Search Engines and Reader Engagement
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the powerful role that AI plays in optimizing content for both search engines and reader engagement. As the digital landscape continues to evolve, understanding how to leverage AI techniques to enhance visibility and captivate your audience is essential for achieving more productive and creative writing outcomes.
 

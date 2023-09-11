@@ -1,5 +1,4 @@
-Chapter 2: Explanation of AI Technology and Its Capabilities for Writing
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental principles of AI technology and how it can revolutionize the writing process. Understanding AI's capabilities is essential for harnessing its power to enhance creativity, productivity, and the overall quality of written content.
 

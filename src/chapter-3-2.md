@@ -1,5 +1,4 @@
-Chapter 10: Benefits of Using AI for Ideation and Organization
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the myriad benefits of employing AI for ideation and organization in the world of writing. The integration of AI techniques into the creative process offers writers a host of advantages that can significantly enhance productivity and creativity.
 

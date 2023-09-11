@@ -1,5 +1,4 @@
-Chapter 7: Collaboration Techniques with AI-Powered Tools for Co-Authoring and Editing
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore advanced collaboration techniques that leverage AI-powered tools to enhance co-authoring and editing processes. These techniques enable writers and teams to collaborate more efficiently and produce high-quality content.
 

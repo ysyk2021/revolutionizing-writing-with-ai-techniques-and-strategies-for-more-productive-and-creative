@@ -1,5 +1,4 @@
-Chapter 5: Discussion of Ethical Considerations When Using AI for Writing
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations that arise when utilizing AI techniques and strategies for writing. As the use of AI in various aspects of our lives continues to expand, it is crucial to reflect on the ethical implications of its application in the realm of writing.
 
